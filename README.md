@@ -16,11 +16,11 @@ The “Review and display result” section allows users to declare the results 
 <img src="Images/Image-1.PNG">
 2) Type New Question
 <img src="Images/Image-2.PNG">
-3) Click on Add Question Button
+3) Click on "ADD Question" Button
 <img src="Images/Image-3.PNG">
-
+4) Click on "Start Quiz" Button
 <img src="Images/Image-4.PNG">
-
+5) Choose correct answers and click on "Review and Submit to Display Result" buttons
 <img src="Images/Image-5.PNG">
-
+6) See the results. Yellow color indicates unattended questions, Green color indicates correct answers, Red color indicates incorrect answers.
 <img src="Images/Image-6.PNG">
